@@ -1,0 +1,18 @@
+{
+  "kind": 1040,
+  "created_at": 1772244765,
+  "tags": [
+    [
+      "x",
+      "0edb0ede5dd3f264ac9a4cbb079a3753d0511d6987a0a3c24a72ecc93d30ce24"
+    ],
+    [
+      "filename",
+      "IPI_1_FR.pdf"
+    ]
+  ],
+  "content": "D-Trinity Proof of Provenance",
+  "pubkey": "929b62d1d54090b224f6e73f31e78ebe76df5e3822f891a4a542343dba8eed51",
+  "id": "10b15b1d67a8c6d07ec0c1c97e524379e62d6578a347fb0b9acecc17ebac5b72",
+  "sig": "0b1053bf68b1e08d9f8933ce0f46e339f1e84a458a5e337561e71c82666b766255ed666672ea3e0cf99e1f76472323b23d95c85965dd9f29aae7cc9b04f99341"
+}
