@@ -1,9 +1,7 @@
 ![D-Trinity](https://github.com/pascalranaora/D-Trinity/blob/main/img/dtrinity-logo.png)
 
 
-
-https://github.com/user-attachments/assets/cf8d6cb6-ef27-4bfe-9bfa-d91e34383581
-
+https://github.com/user-attachments/assets/39ceb92b-8bbc-44ef-ad27-9601bc21f942
 
 
 # 🛡️ D-Trinity : La Trinité Décentralisée
